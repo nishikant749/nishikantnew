@@ -8,7 +8,7 @@
   <meta name="author" content="">
   <link rel="icon" href="../../favicon.ico">
 
-  <title>Blog Template for Bootstrap</title>
+  <title>My blog</title>
   <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/blog/">
 
   <!-- Bootstrap core CSS -->
