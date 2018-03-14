@@ -15,3 +15,4 @@ route::get('post/create','PostController@create');
 route::get('/show/{post}','PostController@show');
 route::post('/posts','PostController@store');
 route::get('/done','laracontrol@done');
+route::get();
