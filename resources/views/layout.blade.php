@@ -8,7 +8,7 @@
   <meta name="author" content="">
   <link rel="icon" href="../../favicon.ico">
 
-  <title>My blog</title>
+  <title>My blog is ongoing</title>
   <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/blog/">
 
   <!-- Bootstrap core CSS -->
